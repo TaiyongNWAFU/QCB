@@ -1,10 +1,13 @@
 # This are scripts for deal with QCB project.
 author: caominghao	date: 2024.6.13
 ****
-## 1.
-
-
-
+## 1.文件说明
+```shell
+## 输入文件
+/examlple/data.csv
+## 结果文件
+/example/p_values_with_genes.csv
+```
 ## 2.选择信号（HKA test）
 ```shell
 ## (1)测试数据在 ./example/data.csv
