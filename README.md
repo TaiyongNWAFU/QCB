@@ -9,7 +9,8 @@ author: caominghao	date: 2024.6.13
 基于vcf文件中遗传变异信息，构建品种系统发育树、主成分分析、血统组成
 ## (3)pop_divers
 基于vcf文件中遗传变异信息，评估各群体之间的遗传分化程度（FST）、核苷酸多样性（PI）、连锁不平衡衰减（LD decay）
-## (4)
+## (4)pop_select
+急于vcf文件中的遗传变异信息，使用窗口扫描的方式筛选两群体间受选择的区域（FST、PI、XPCLR、GWAS）
 
 
 ## script
